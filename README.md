@@ -5,8 +5,8 @@
 ### Как пользоваться
 
 Для работы обложки вам понадобится:
-1. (Rainmeter)[https://www.rainmeter.net/] - программа, позволяющая применять обложки для рабочего стола.
-2. (Последняя версия нашей обложки)[https://github.com/Mahamadovich/TQW/releases]
+1. [Rainmeter](https://www.rainmeter.net/) - программа, позволяющая применять обложки для рабочего стола.
+2. [Последняя версия нашей обложки](https://github.com/Mahamadovich/TQW/releases)
 
 ### Время молитв
 
