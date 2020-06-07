@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Taqwia
 
-You can use the [editor on GitHub](https://github.com/Mahamadovich/taqwia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Скин для **Rainmeter**, позволяющий следить за временем молитв, учить имена Аллаhа и читать случайный хадис из "Сахиха аль-Бухари" без лишней траты времени и усилий. Ну и помимо всего прочего - невероятно стильный виджет с часами, позволяющий видеть насколько сильно пыхтит ваш ПК;)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Время молитв
 
-### Markdown
+К сожалению, **Rainmeter** не предполагает простого способа определения местоположения, поэтому его придётся ввести вручную:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```praytimes.ini
+...
+[Variables]
+lat=45.000    // Широта - достаём из гугл/яндекс карты
+lon=45.000    // Долгота - достаём из гугл/яндекс карты
+gmt=180       // Часовой пояс (180 это +3 часа по МСК, т.е. +1 час = 60. Пример: +5 часов = 300; -5 часов = -300)
+method=3      // Метод расчёта времени молитв:
+// University of Islamic Sciences, Karachi: 1
+// ISNA: 2
+// Muslim World League: 3
+// Umm Al Qura: 4
+// Egyptian Authority of Survey: 5
+// Мне ни один с точностью не подошел, лишь приблизительно. 
+// В планах - возможность ручной корректировки.
+...
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Обновление
 
-### Jekyll Themes
+Пока механизм уведомления об обновлениях в самом скине не осуществлен, но специально для этой цели есть [канал в телеграм!](https://t.me/taqwia).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mahamadovich/taqwia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Поддержка
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+По вопросам поддержки проекта - [Я_в_телеге](https://t.me/Mahamadovich).
+Отдельный респект - желающим принять участие в проекте.
