@@ -6,7 +6,7 @@
 
 ### Ссылка для скачивания
 
-[﴾Загрузить﴿](https://github.com/Mahamadovich/TQW/releases/latest/download/TQW.rmskin)
+#### [﴾ Загрузить ﴿](https://github.com/Mahamadovich/TQW/releases/latest/download/TQW.rmskin)
 
 ### Как пользоваться
 
