@@ -1,4 +1,4 @@
-## Описание проекта
+## Рабочий стол муслима
 
 ![skin_preview](https://raw.githubusercontent.com/Mahamadovich/TQW/master/Installation/main.png)
 
