@@ -4,11 +4,15 @@
 
 Обложка для рабочего стола со стильными часами, временем молитв и временной гистограммой загруженности процессора.
 
+### Ссылка для скачивания
+
+[﴾Загрузить﴿](https://github.com/Mahamadovich/TQW/releases/latest/download/TQW.rmskin)
+
 ### Как пользоваться
 
 Для работы обложки вам понадобится:
-1. [Rainmeter](https://www.rainmeter.net/) - программа, позволяющая применять обложки для рабочего стола.
-2. [Скачать и установить обложку TQW](https://github.com/Mahamadovich/TQW/releases/latest/download/TQW.rmskin)
+1. [Установить Rainmeter](https://www.rainmeter.net/) - программа, позволяющая применять обложки для рабочего стола.
+2. [Установить TQW](https://github.com/Mahamadovich/TQW/releases/latest/download/TQW.rmskin)
 
 ### Время молитв
 
